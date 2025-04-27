@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tamyla Auth Service
 
 A standalone, production-ready authentication microservice for the Tamyla platform. Provides OTP-based (email & WhatsApp) authentication, JWT session management, and a simple REST API for integration with any frontend or microservice.
@@ -45,3 +46,7 @@ See [AUTH_MODULE_BLUEPRINT.md](../trading-portal/AUTH_MODULE_BLUEPRINT.md) for t
 
 ## Principles
 - High reuse, loose coupling, security by design, simplicity, and holistic testability.
+=======
+# tamyla-auth-service
+Authentication Service for trading portal and other applications
+>>>>>>> 58facb30f718f0dcb55dedcc771f89a0f1c1db95
